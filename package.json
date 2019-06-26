@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/trollfred/bootbox.git",
+      "/home/koso00/Progetti/webilly3"
+    ]
+  ],
+  "_from": "git+https://github.com/trollfred/bootbox.git",
+  "_id": "bootbox.js@git+https://github.com/trollfred/bootbox.git#0a630521bf5d0ab896a6a849ba4cd97bb8202e5b",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/bootbox.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/trollfred/bootbox.git",
+    "rawSpec": "git+https://github.com/trollfred/bootbox.git",
+    "saveSpec": "git+https://github.com/trollfred/bootbox.git",
+    "fetchSpec": "https://github.com/trollfred/bootbox.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/trollfred/bootbox.git#0a630521bf5d0ab896a6a849ba4cd97bb8202e5b",
+  "_spec": "git+https://github.com/trollfred/bootbox.git",
+  "_where": "/home/koso00/Progetti/webilly3",
+  "author": {
+    "name": "Nick Payne",
+    "email": "nick@kurai.co.uk"
+  },
+  "bugs": {
+    "url": "https://github.com/makeusabrew/bootbox/issues"
+  },
+  "description": "Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-karma": "~0.6.2",
+    "karma": "~0.10.1",
+    "karma-chai": "0.0.1",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-coverage": "~0.1.0",
+    "karma-junit-reporter": "~0.1.0",
+    "karma-mocha": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "mocha": "~1.12.0",
+    "sinon": "~1.7.3",
+    "sinon-chai": "~2.4.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "homepage": "https://github.com/makeusabrew/bootbox#readme",
+  "license": "MIT",
+  "name": "bootbox.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/makeusabrew/bootbox.git"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "version": "4.1.0"
+}
